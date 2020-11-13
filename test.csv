@@ -1,0 +1,215 @@
+,0,0
+0,Aberdeen City,Aberdeen City
+1,Aberdeenshire,Aberdeenshire
+2,Angus,Angus
+3,Antrim and Newtownabbey,Antrim and Newtownabbey
+4,Ards and North Down,Ards and North Down
+5,Argyll and Bute,Argyll and Bute
+6,"Armagh City, Banbridge and Craigavon","Armagh City, Banbridge and Craigavon"
+7,Bath and North East Somerset,Barking and Dagenham
+8,Bedford,Barnet
+9,Belfast,Barnsley
+10,Blackburn with Darwen,Bath and North East Somerset
+11,Blackpool,Bedford
+12,Blaenau Gwent,Belfast
+13,"Bournemouth, Christchurch and Poole",Bexley
+14,Bracknell Forest,Birmingham
+15,Bridgend,Blackburn with Darwen
+16,Brighton and Hove,Blackpool
+17,"Bristol, City of",Blaenau Gwent
+18,Buckinghamshire,Bolton
+19,Caerphilly,"Bournemouth, Christchurch and Poole"
+20,Cambridgeshire,Bracknell Forest
+21,Cardiff,Bradford
+22,Carmarthenshire,Brent
+23,Causeway Coast and Glens,Bridgend
+24,Central Bedfordshire,Brighton and Hove
+25,Ceredigion,"Bristol, City of"
+26,Cheshire East,Bromley
+27,Cheshire West and Chester,Buckinghamshire
+28,City of Edinburgh,Bury
+29,Clackmannanshire,Caerphilly
+30,Conwy,Calderdale
+31,Cornwall,Cambridgeshire
+32,County Durham,Camden
+33,Cumbria,Cardiff
+34,Darlington,Carmarthenshire
+35,Denbighshire,Causeway Coast and Glens
+36,Derby,Central Bedfordshire
+37,Derbyshire,Ceredigion
+38,Derry City and Strabane,Cheshire East
+39,Devon,Cheshire West and Chester
+40,Dorset,Clackmannanshire
+41,Dumfries and Galloway,Comhairle nan Eilean Siar
+42,Dundee City,Conwy
+43,East Ayrshire,Cornwall and Isles of Scilly
+44,East Dunbartonshire,County Durham
+45,East Lothian,Coventry
+46,East Renfrewshire,Croydon
+47,East Riding of Yorkshire,Cumbria
+48,East Sussex,Darlington
+49,Essex,Denbighshire
+50,Falkirk,Derby
+51,Fermanagh and Omagh,Derbyshire
+52,Fife,Derry City and Strabane
+53,Flintshire,Devon
+54,Glasgow City,Doncaster
+55,Gloucestershire,Dorset
+56,Greater Manchester,Dudley
+57,Gwynedd,Dumfries and Galloway
+58,Halton,Dundee City
+59,Hampshire,Ealing
+60,Hartlepool,East Ayrshire
+61,"Herefordshire, County of",East Dunbartonshire
+62,Hertfordshire,East Lothian
+63,Highland,East Renfrewshire
+64,Inner London,East Riding of Yorkshire
+65,Inverclyde,East Sussex
+66,Isle of Anglesey,Edinburgh (City of)
+67,Isle of Wight,Enfield
+68,Isles of Scilly,Essex
+69,Kent,Falkirk
+70,"Kingston upon Hull, City of",Fermanagh and Omagh
+71,Lancashire,Fife
+72,Leicester,Flintshire
+73,Leicestershire,Gateshead
+74,Lincolnshire,Glasgow City
+75,Lisburn and Castlereagh,Gloucestershire
+76,Luton,Greenwich
+77,Medway,Gwynedd
+78,Merseyside,Hackney and City of London
+79,Merthyr Tydfil,Halton
+80,Mid Ulster,Hammersmith and Fulham
+81,Mid and East Antrim,Hampshire
+82,Middlesbrough,Haringey
+83,Midlothian,Harrow
+84,Milton Keynes,Hartlepool
+85,Monmouthshire,Havering
+86,Moray,"Herefordshire, County of"
+87,Na h-Eileanan Siar,Hertfordshire
+88,Neath Port Talbot,Highland
+89,Newport,Hillingdon
+90,"Newry, Mourne and Down",Hounslow
+91,Norfolk,Inverclyde
+92,North Ayrshire,Isle of Anglesey
+93,North East Lincolnshire,Isle of Wight
+94,North Lanarkshire,Islington
+95,North Lincolnshire,Kensington and Chelsea
+96,North Somerset,Kent
+97,North Yorkshire,"Kingston upon Hull, City of"
+98,Northamptonshire,Kingston upon Thames
+99,Northumberland,Kirklees
+100,Nottingham,Knowsley
+101,Nottinghamshire,Lambeth
+102,Orkney Islands,Lancashire
+103,Outer London,Leeds
+104,Oxfordshire,Leicester
+105,Pembrokeshire,Leicestershire
+106,Perth and Kinross,Lewisham
+107,Peterborough,Lincolnshire
+108,Plymouth,Lisburn and Castlereagh
+109,Portsmouth,Liverpool
+110,Powys,Luton
+111,Reading,Manchester
+112,Redcar and Cleveland,Medway
+113,Renfrewshire,Merthyr Tydfil
+114,Rhondda Cynon Taf,Merton
+115,Rutland,Mid and East Antrim
+116,Scottish Borders,Mid Ulster
+117,Shetland Islands,Middlesbrough
+118,Shropshire,Midlothian
+119,Slough,Milton Keynes
+120,Somerset,Monmouthshire
+121,South Ayrshire,Moray
+122,South Gloucestershire,Neath Port Talbot
+123,South Lanarkshire,Newcastle upon Tyne
+124,South Yorkshire,Newham
+125,Southampton,Newport
+126,Southend-on-Sea,"Newry, Mourne and Down"
+127,Staffordshire,Norfolk
+128,Stirling,North Ayrshire
+129,Stockton-on-Tees,North East Lincolnshire
+130,Stoke-on-Trent,North Lanarkshire
+131,Suffolk,North Lincolnshire
+132,Surrey,North Somerset
+133,Swansea,North Tyneside
+134,Swindon,North Yorkshire
+135,Telford and Wrekin,Northamptonshire
+136,Thurrock,Northumberland
+137,Torbay,Nottingham
+138,Torfaen,Nottinghamshire
+139,Tyne and Wear,Oldham
+140,Vale of Glamorgan,Orkney Islands
+141,Warrington,Oxfordshire
+142,Warwickshire,Pembrokeshire
+143,West Berkshire,Perth and Kinross
+144,West Dunbartonshire,Peterborough
+145,West Lothian,Plymouth
+146,West Midlands,Portsmouth
+147,West Sussex,Powys
+148,West Yorkshire,Reading
+149,Wiltshire,Redbridge
+150,Windsor and Maidenhead,Redcar and Cleveland
+151,Wokingham,Renfrewshire
+152,Worcestershire,Rhondda Cynon Taf
+153,Wrexham,Richmond upon Thames
+154,York,Rochdale
+155,,Rotherham
+156,,Rutland
+157,,Salford
+158,,Sandwell
+159,,Scottish Borders
+160,,Sefton
+161,,Sheffield
+162,,Shetland Islands
+163,,Shropshire
+164,,Slough
+165,,Solihull
+166,,Somerset
+167,,South Ayrshire
+168,,South Gloucestershire
+169,,South Lanarkshire
+170,,South Tyneside
+171,,Southampton
+172,,Southend-on-Sea
+173,,Southwark
+174,,St. Helens
+175,,Staffordshire
+176,,Stirling
+177,,Stockport
+178,,Stockton-on-Tees
+179,,Stoke-on-Trent
+180,,Suffolk
+181,,Sunderland
+182,,Surrey
+183,,Sutton
+184,,Swansea
+185,,Swindon
+186,,Tameside
+187,,Telford and Wrekin
+188,,Thurrock
+189,,Torbay
+190,,Torfaen
+191,,Tower Hamlets
+192,,Trafford
+193,,Vale of Glamorgan
+194,,Wakefield
+195,,Walsall
+196,,Waltham Forest
+197,,Wandsworth
+198,,Warrington
+199,,Warwickshire
+200,,West Berkshire
+201,,West Dunbartonshire
+202,,West Lothian
+203,,West Sussex
+204,,Westminster
+205,,Wigan
+206,,Wiltshire
+207,,Windsor and Maidenhead
+208,,Wirral
+209,,Wokingham
+210,,Wolverhampton
+211,,Worcestershire
+212,,Wrexham
+213,,York
